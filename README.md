@@ -1,8 +1,8 @@
 # CSA0907 - Programming in Java | Assignment 2 (CO2)
 
-**Student Name:** Fathi Muthu Johara M  
-**Register Number:** 192411009  
-**Course Code:** CSA0907  
+**Student Name:** Varsha S
+**Register Number:** 192462003
+**Course Code:** CSA0923
 **Java Version:** Java 25 (JavaSE-25) / JDK 21+  
 
 ---
