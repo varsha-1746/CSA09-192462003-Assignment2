@@ -14,7 +14,7 @@ This repository contains all experimental benchmarks, Java source implementation
 The project is organized into individual task folders:
 
 ```text
-CSA0907-192411009-Assignment2/
+CSA0923-192462003-Assignment2/
 ├── README.md
 ├── Task01/
 │   ├── Task01_StringBenchmark.java
